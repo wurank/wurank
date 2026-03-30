@@ -19,5 +19,6 @@
 
 ## 最新文章
 
+- [不是先找到自己，才活出人生](https://blog.wurank.top/posts/not-finding-self-first/)
 - [我们以为自己在思考,可能只是在接收自动生成的想法](https://blog.wurank.top/posts/thinking-or-receiving-thoughts/)
 - [不要把 NPC 做成"有性格的木偶"](https://blog.wurank.top/posts/npc-character-design/)
